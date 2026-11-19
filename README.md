@@ -14,25 +14,25 @@ Preview a new look, tune how the island moves, and put your everyday tools withi
 
 ## The live island
 
-These clips show the running Quickshell island with the Aurora Rush theme, sample system readings, and a test notification.
+These clips were recorded on Wayland with the running Quickshell island, the Aurora Rush theme, sample system readings, and a test notification.
 
 ### Hover to expand
 
 The compact pill opens into a summary for CPU, memory, and battery. Moving the pointer away returns it to the compact view.
 
-![The compact Latto island expands into three status cards on hover and collapses when the pointer leaves.](docs/media/island-hover.gif)
+![The compact Latto island expands into three status cards on hover and collapses when the pointer leaves.](docs/media/island-expand.gif)
 
 ### Start a focus session
 
 Start a Pomodoro from the Timers tab. The countdown stays visible in the compact pill after you close the panel.
 
-![The Timers tab starts a 25-minute Pomodoro, then the island collapses with the countdown still visible.](docs/media/island-timers.gif)
+![The Timers tab starts a 25-minute Pomodoro, then the island collapses with the countdown still visible.](docs/media/island-focus.gif)
 
 ### Open a notification
 
 A desktop notification expands the pill into a banner. Clicking the banner opens its entry in the notification history.
 
-![A Build complete notification appears as a banner, then opens in Latto’s notification history.](docs/media/island-notifications.gif)
+![A Build complete notification appears as a banner, then opens in Latto’s notification history.](docs/media/island-alerts.gif)
 
 ## Try Studio
 
