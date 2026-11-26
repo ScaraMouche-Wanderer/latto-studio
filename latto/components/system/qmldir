@@ -1,0 +1,13 @@
+AboutPage 1.0 AboutPage.qml
+ControlButton 1.0 ControlButton.qml
+ControlChoice 1.0 ControlChoice.qml
+ControlPage 1.0 ControlPage.qml
+ControlSlider 1.0 ControlSlider.qml
+ControlToggle 1.0 ControlToggle.qml
+CustomizePage 1.0 CustomizePage.qml
+DisplayPage 1.0 DisplayPage.qml
+NotificationsPage 1.0 NotificationsPage.qml
+PowerPage 1.0 PowerPage.qml
+SoundPage 1.0 SoundPage.qml
+ProfilesPage 1.0 ProfilesPage.qml
+AppsPage 1.0 AppsPage.qml
